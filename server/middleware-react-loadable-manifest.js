@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST={"..\\components\\CounterArea\\CounterAreaItem.jsx -> react-odometerjs":{id:4453,files:["static/chunks/453.18eac818d217fbdb.js"]},"_app.js -> bootstrap/dist/js/bootstrap.bundle.min":{id:8702,files:["static/chunks/702.a35722c5d3f7a90f.js"]}};
